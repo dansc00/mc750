@@ -1,1 +1,1 @@
-# mc750
+Repositório da disciplina Construção de Interfaces Homem-Computador
